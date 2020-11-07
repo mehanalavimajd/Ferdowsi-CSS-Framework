@@ -11,8 +11,7 @@ It is write in css and js
 - import js file ater jquey
 - now you can use it
 ## How to use
-- To Test It:
--- btn btn-allc btn-circle
+- To Test It Add this classes to a button : btn btn-allc btn-circle
 ### Buttons
 - to all buttons add btn class
 ## Support
