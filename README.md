@@ -11,14 +11,9 @@ It is write in css and js
 - import js file ater jquey
 - now you can use it
 ## How to use
-To Test it create a button and add this classes :
-- btn btn-allc btn-circle
-<br>
-Yes It is Work
-<br>
-Buttons:
-to all buttons add btn class
-</br>
----
+- To Test It:
+-- btn btn-allc btn-circle
+### Buttons
+- to all buttons add btn class
 ## Support
 - Email : amirghazi1387@gmail.com
