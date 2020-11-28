@@ -126,3 +126,133 @@ else if (sm) {
   $(".col-10-sm").addClass("col-10");
   $(".row-sm").addClass("row");
 }
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.m-' + i;
+  $(clsname).css('margin', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.m-' + j + '-5';
+  $(clsname).css('margin', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.mt-' + i;
+  $(clsname).css('margin-top', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.mt-' + j + '-5';
+  $(clsname).css('margin-top', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.mb-' + i;
+  $(clsname).css('margin-bottom', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.mb-' + j + '-5';
+  $(clsname).css('margin-bottom', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.mr-' + i;
+  $(clsname).css('margin-right', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.mr-' + j + '-5';
+  $(clsname).css('margin-right', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.ml-' + i;
+  $(clsname).css('margin-left', i + 'rem');
+}
+
+
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.ml-' + j + '-5';
+  $(clsname).css('margin-left', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.p-' + i;
+  $(clsname).css('padding', i + 'rem');
+}
+
+
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.p-' + j + '-5';
+  $(clsname).css('padding', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.pt-' + i;
+  $(clsname).css('padding-top', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.pt-' + j + '-5';
+  $(clsname).css('padding-top', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.pb-' + i;
+  $(clsname).css('padding-bottom', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.pb-' + j + '-5';
+  $(clsname).css('padding-bottom', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.pr-' + i;
+  $(clsname).css('padding-right', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.pr-' + j + '-5';
+  $(clsname).css('padding-right', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.pl-' + i;
+  $(clsname).css('padding-left', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.pl-' + j + '-5';
+  $(clsname).css('padding-left', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 20 ; i++) {
+  clsname = '.m-p-' + i;
+  clsname2 = '.p-m-' + i;
+  $(clsname).css('padding', i + 'rem');
+  $(clsname).css('margin', i + 'rem');
+  $(clsname2).css('padding', i + 'rem');
+  $(clsname2).css('margin', i + 'rem');
+}
+for (let j = 0; j < 20 ; j++) {
+  clsname = '.m-p-' + j + '-5';
+  clsname2 = '.p-m-' + j + '-5';
+  $(clsname).css('padding', j + '.5' + 'rem');
+  $(clsname).css('margin', j + '.5' + 'rem');
+  $(clsname2).css('padding', j + '.5' + 'rem');
+  $(clsname2).css('margin', j + '.5' + 'rem');
+}
+
+
+for (let i = 0; i <= 100 ; i++) {
+  clsname = '.font-size-' + i;
+  $(clsname).css('font-size', i);
+}
+for (let j = 0; j < 100 ; j++) {
+  clsname = '.font-size-' + j + '-5';
+  $(clsname).css('font-sizr', j);
+}
