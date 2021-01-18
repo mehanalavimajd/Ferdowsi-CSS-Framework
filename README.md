@@ -8,7 +8,7 @@ It is write in css and js
 ## How to use
 - import css file
 - import jquery files
-- import js file ater jquey
+- import js file after jquery
 - now you can use it
 ## How to use
 - To Test It Add this classes to a button : btn btn-allc btn-circle
